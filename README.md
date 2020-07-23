@@ -2,7 +2,7 @@
 
 #1 
 
-`Git clone repo`
+`Git clone https://github.com/Nathan95/Products.git`
 
 #2 
 
