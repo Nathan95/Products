@@ -2,15 +2,15 @@
 
 #1 
 
-Git clone repo
+`Git clone repo`
 
 #2 
 
-npm install
+`npm install`
 
 #3
 
-npm start
+`npm start`
 
 #4
 
